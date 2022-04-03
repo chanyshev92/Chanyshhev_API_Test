@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chanyshev_reqresAPI" target="16" />
+      <module name="chanyshev_reqresAPI" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
